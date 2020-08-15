@@ -1,2 +1,4 @@
 # named-face-images
-Computer-generated faces with random names
+
+Small set of faces generated with StyleGAN and given random names.
+
